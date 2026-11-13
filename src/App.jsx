@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-//import img from "./ai-human.avif";
+import img from "./ai-human.avif";
 
 const App = () => {
     const [transcript, setTarnscript] = useState("");
