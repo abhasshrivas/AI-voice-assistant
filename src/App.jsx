@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import img from "./ai-human.avif";
+import  { useEffect, useState } from "react";
+//import img from "./ai-human.avif";
 
 const App = () => {
     const [transcript, setTarnscript] = useState("");
@@ -177,7 +177,7 @@ const App = () => {
     return (
         <div>
             <div className="voice-assistant">
-                <img src={img} alt="AI" className="ai-image" />
+                <img src="" alt="AI" className="ai-image" />
                 <h2>Voice Assistant (Friday)</h2>
 
                 <button
