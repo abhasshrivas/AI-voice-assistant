@@ -177,7 +177,7 @@ const App = () => {
     return (
         <div>
             <div className="voice-assistant">
-                <img src="" alt="" className="ai-image" />
+                <img src="" alt="AI" className="ai-image" />
                 <h2>Voice Assistant (Friday)</h2>
 
                 <button
