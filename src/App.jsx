@@ -73,7 +73,7 @@ const App = () => {
                 google: "https://www.google.com",
                 twitter: "https://www.twitter.com",
                 instagram: "https://www.instagram.com",
-                chatgpt: "https://chatgpt.com/"
+                chatgpt: "https://www.chatgpt.com/"
             };
 
             if (sitesMap[site]) {
